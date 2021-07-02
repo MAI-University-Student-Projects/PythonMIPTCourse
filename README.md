@@ -19,9 +19,9 @@ __Правила курса__:
 
 2. [Объектно-ориентированное программирование на языке Python](https://github.com/MAI-University-Student-Projects/PythonMIPTCourse/blob/main/tasks/02-design.ipynb)
 
-3. [Основы анализа данных и машинного обучения в Python](https://github.com/MAI-University-Student-Projects/PythonMIPTCourse/blob/main/03-data-ml.ipynb)
+3. [Основы анализа данных и машинного обучения в Python](https://github.com/MAI-University-Student-Projects/PythonMIPTCourse/blob/main/tasks/03-data-ml.ipynb)
 
-4. [Web-сервер для Telegram-бота](https://github.com/MAI-University-Student-Projects/PythonMIPTCourse/blob/main/04-server.ipynb)
+4. [Web-сервер для Telegram-бота](https://github.com/MAI-University-Student-Projects/PythonMIPTCourse/blob/main/tasks/04-server.ipynb)
 
 <h4>Лекции</h4>
 
